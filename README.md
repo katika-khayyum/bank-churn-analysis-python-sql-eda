@@ -16,6 +16,9 @@ _👉 Executed end-to-end bank customer churn analysis on 10,000+ records, lever
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#author-contact">Author & Contact</a>
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
