@@ -40,6 +40,7 @@ Objective:
 ---
 
 <h2><a class="anchor" id="dataset"></a>DataSet</h2>
+
 📂 Dataset
 
 - Source: Collected from a public GitHub dataset
@@ -57,7 +58,9 @@ Objective:
 ---
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
-🛠️ Tools & Technologies
+
+🛠️ Tools & Technologies:
+
 - SQL(Common Table Expressions, filtering,groupby)
 - Python(Pandas, Numpy, Matplotlib, Seaborn, Regular Expressions (re))
 
@@ -102,7 +105,9 @@ Encoding Techniques Used:
 ---
 
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
+
 📊 Exploratory Data Analysis (EDA)
+
 
 Performed in-depth analysis using advanced visualization techniques:
 Univariate Analysis:
@@ -121,6 +126,7 @@ Univariate Analysis:
 <h2><a class="anchor" id="key-findings"></a>Key Findings</h2>
 
 🔍 Key Findings:
+
 - 🔴 Inactive members have significantly higher churn rate
 - 🔴 Customers with zero balance are more likely to churn
 - 🌍 Certain geographic regions show higher churn patterns-
@@ -131,6 +137,7 @@ Univariate Analysis:
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 ▶️ How to Run This Project:
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/katika-khayyum/instagram-data-cleaning-python-sql-eda.git
