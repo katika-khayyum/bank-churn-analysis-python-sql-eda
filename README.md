@@ -155,7 +155,7 @@ Key visualizations created:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/katika-khayyum/instagram-data-cleaning-python-sql-eda.git
+git clone https://github.com/katika-khayyum/bank-churn-analysis-python-sql-eda.git
 ```
 2. Load the CSVs and into the database:
 ```bash
